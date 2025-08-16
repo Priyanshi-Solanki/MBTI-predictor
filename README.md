@@ -48,16 +48,14 @@ An advanced web application that predicts Myers-Briggs Type Indicator (MBTI) per
 
 ### File Structure
 ```
-mbti-ui/
+root/
 ├── index.html        # Frontend
 ├── styles.css        # Styles
 ├── script.js         # JS logic
 ├── app.py            # Flask backend
 ├── setup.py          # Model training
 ├── requirements.txt  # Python deps
-├── MBTI.ipynb        # Jupyter notebook
 ├── README.md         # Docs
-├── push_files/       # Files to push/deploy
 ```
 
 
