@@ -1,0 +1,13 @@
+# Files/folders to ignore for push/deployment
+mbti_env/
+*.sav
+*.PNG
+*.ipynb
+run.bat
+Capture*.PNG
+SETUP_GUIDE.md
+ai.PNG
+Capture.PNG
+Capture 2.PNG
+Capture 3.PNG
+Capture 4.PNG
